@@ -1,5 +1,6 @@
 {
-  "name": "https://iamangelu.github.io/ReactStaticWebsite/",
+  "homepage": "https://iamangelu.github.io/ReactStaticWebsite/",
+  "name": "web1_angel",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
